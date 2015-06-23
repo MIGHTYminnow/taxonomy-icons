@@ -1,0 +1,14 @@
+/**
+ * Taxonomy Icons admin CSS.
+ *
+ * @since 	1.0.0
+ *
+ * @package Taxonomy Icons
+ */
+
+.tax-icons-icon-placeholder,
+.tax-icons-icon-placeholder.fa {
+	margin-left: 0.25em;
+	font-size: 1.8em;
+	vertical-align: middle;
+}

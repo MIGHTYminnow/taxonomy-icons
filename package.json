@@ -1,0 +1,21 @@
+{
+  "title": "Taxonomy Icons",
+  "description": "Add custom icons to your categories, tags, and custom taxonomies.",
+  "version": "1.0.3",
+  "homepage": "http://wordpress.org/plugins/taxonomy-icons",
+  "author": {
+    "name": "MIGHTYminnow Web Studio & School",
+    "email": "info@mightyminnow.com",
+    "url": "http://mightyminnow.com/plugin-landing-page?utm_source=taxonomy-icons&utm_medium=plugin-repo&utm_campaign=WordPress%20Plugins"
+  },
+  "devDependencies": {
+    "grunt": "latest",
+    "load-grunt-tasks": "latest",
+    "grunt-dev-update": "latest",
+    "grunt-prompt": "latest",
+    "grunt-text-replace": "latest",
+    "grunt-wp-i18n": "latest",
+    "grunt-contrib-copy": "^0.7.0"
+  },
+  "keywords": []
+}
